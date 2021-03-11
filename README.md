@@ -2,7 +2,7 @@
 
 I am Vardan Petrossiantz, Legal Tech Lawyer at Freshfields Bruckhaus Deringer, Munich, Germany
 
-Working Legal Tech sphere since 2 years. I have done several projects on automated contract analysis.
+Working in Legal Tech sphere since 2 years. I have done several projects on automated contract analysis.
 <!--
 **vardanpetrossiantz/vardanpetrossiantz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
